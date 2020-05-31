@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\shawn\source\repos\algorithms\algorithms\utils.h(32,9): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\shawn\source\repos\algorithms\algorithms\utils.h(49,9): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\shawn\source\repos\algorithms\algorithms\af.h(64,41): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\shawn\source\repos\algorithms\algorithms\fast.h(23,23): warning C4018:  “<”: 有符号/无符号不匹配
+C:\Users\shawn\source\repos\algorithms\algorithms\fast.h(53,31): warning C4244:  “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\shawn\source\repos\algorithms\algorithms\fast.h(62,21): warning C4244:  “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\shawn\source\repos\algorithms\algorithms\fast.h(84,23): warning C4244:  “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\shawn\source\repos\algorithms\algorithms\main.cpp(41,21): warning C4244:  “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\shawn\source\repos\algorithms\algorithms\main.cpp(52,20): warning C4244:  “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\shawn\source\repos\algorithms\algorithms\main.cpp(36,17): warning C4101:  “PG”: 未引用的局部变量
+  algorithms.vcxproj -> C:\Users\shawn\source\repos\algorithms\Debug\algorithms.exe
