@@ -1,0 +1,98 @@
+﻿  main.cpp
+C:\Users\shawn\source\repos\draw\draw\utils.h(29,32): warning C4244:  “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\Users\shawn\source\repos\draw\draw\utils.h(29,32): warning C4244:         with
+C:\Users\shawn\source\repos\draw\draw\utils.h(29,32): warning C4244:         [
+C:\Users\shawn\source\repos\draw\draw\utils.h(29,32): warning C4244:             _Tp=int
+C:\Users\shawn\source\repos\draw\draw\utils.h(29,32): warning C4244:         ]
+C:\Users\shawn\source\repos\draw\draw\utils.h(29,25): warning C4244:  “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\Users\shawn\source\repos\draw\draw\utils.h(29,25): warning C4244:         with
+C:\Users\shawn\source\repos\draw\draw\utils.h(29,25): warning C4244:         [
+C:\Users\shawn\source\repos\draw\draw\utils.h(29,25): warning C4244:             _Tp=int
+C:\Users\shawn\source\repos\draw\draw\utils.h(29,25): warning C4244:         ]
+C:\Users\shawn\source\repos\draw\draw\utils.h(29,53): warning C4244:  “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\Users\shawn\source\repos\draw\draw\utils.h(29,53): warning C4244:         with
+C:\Users\shawn\source\repos\draw\draw\utils.h(29,53): warning C4244:         [
+C:\Users\shawn\source\repos\draw\draw\utils.h(29,53): warning C4244:             _Tp=int
+C:\Users\shawn\source\repos\draw\draw\utils.h(29,53): warning C4244:         ]
+C:\Users\shawn\source\repos\draw\draw\utils.h(29,46): warning C4244:  “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\Users\shawn\source\repos\draw\draw\utils.h(29,46): warning C4244:         with
+C:\Users\shawn\source\repos\draw\draw\utils.h(29,46): warning C4244:         [
+C:\Users\shawn\source\repos\draw\draw\utils.h(29,46): warning C4244:             _Tp=int
+C:\Users\shawn\source\repos\draw\draw\utils.h(29,46): warning C4244:         ]
+C:\Users\shawn\source\repos\draw\draw\utils.h(37,24): warning C4244:  “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\Users\shawn\source\repos\draw\draw\utils.h(37,24): warning C4244:         with
+C:\Users\shawn\source\repos\draw\draw\utils.h(37,24): warning C4244:         [
+C:\Users\shawn\source\repos\draw\draw\utils.h(37,24): warning C4244:             _Tp=int
+C:\Users\shawn\source\repos\draw\draw\utils.h(37,24): warning C4244:         ]
+C:\Users\shawn\source\repos\draw\draw\utils.h(37,21): warning C4244:  “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\Users\shawn\source\repos\draw\draw\utils.h(37,21): warning C4244:         with
+C:\Users\shawn\source\repos\draw\draw\utils.h(37,21): warning C4244:         [
+C:\Users\shawn\source\repos\draw\draw\utils.h(37,21): warning C4244:             _Tp=int
+C:\Users\shawn\source\repos\draw\draw\utils.h(37,21): warning C4244:         ]
+C:\Users\shawn\source\repos\draw\draw\utils.h(61,33): warning C4244:  “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\Users\shawn\source\repos\draw\draw\utils.h(61,33): warning C4244:         with
+C:\Users\shawn\source\repos\draw\draw\utils.h(61,33): warning C4244:         [
+C:\Users\shawn\source\repos\draw\draw\utils.h(61,33): warning C4244:             _Tp=int
+C:\Users\shawn\source\repos\draw\draw\utils.h(61,33): warning C4244:         ]
+C:\Users\shawn\source\repos\draw\draw\utils.h(61,26): warning C4244:  “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\Users\shawn\source\repos\draw\draw\utils.h(61,26): warning C4244:         with
+C:\Users\shawn\source\repos\draw\draw\utils.h(61,26): warning C4244:         [
+C:\Users\shawn\source\repos\draw\draw\utils.h(61,26): warning C4244:             _Tp=int
+C:\Users\shawn\source\repos\draw\draw\utils.h(61,26): warning C4244:         ]
+C:\Users\shawn\source\repos\draw\draw\utils.h(61,54): warning C4244:  “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\Users\shawn\source\repos\draw\draw\utils.h(61,54): warning C4244:         with
+C:\Users\shawn\source\repos\draw\draw\utils.h(61,54): warning C4244:         [
+C:\Users\shawn\source\repos\draw\draw\utils.h(61,54): warning C4244:             _Tp=int
+C:\Users\shawn\source\repos\draw\draw\utils.h(61,54): warning C4244:         ]
+C:\Users\shawn\source\repos\draw\draw\utils.h(61,47): warning C4244:  “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\Users\shawn\source\repos\draw\draw\utils.h(61,47): warning C4244:         with
+C:\Users\shawn\source\repos\draw\draw\utils.h(61,47): warning C4244:         [
+C:\Users\shawn\source\repos\draw\draw\utils.h(61,47): warning C4244:             _Tp=int
+C:\Users\shawn\source\repos\draw\draw\utils.h(61,47): warning C4244:         ]
+C:\Users\shawn\source\repos\draw\draw\utils.h(73,24): warning C4244:  “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\Users\shawn\source\repos\draw\draw\utils.h(73,24): warning C4244:         with
+C:\Users\shawn\source\repos\draw\draw\utils.h(73,24): warning C4244:         [
+C:\Users\shawn\source\repos\draw\draw\utils.h(73,24): warning C4244:             _Tp=int
+C:\Users\shawn\source\repos\draw\draw\utils.h(73,24): warning C4244:         ]
+C:\Users\shawn\source\repos\draw\draw\utils.h(73,21): warning C4244:  “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\Users\shawn\source\repos\draw\draw\utils.h(73,21): warning C4244:         with
+C:\Users\shawn\source\repos\draw\draw\utils.h(73,21): warning C4244:         [
+C:\Users\shawn\source\repos\draw\draw\utils.h(73,21): warning C4244:             _Tp=int
+C:\Users\shawn\source\repos\draw\draw\utils.h(73,21): warning C4244:         ]
+C:\Users\shawn\source\repos\draw\draw\utils.h(95,31): warning C4244:  “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\Users\shawn\source\repos\draw\draw\utils.h(95,31): warning C4244:         with
+C:\Users\shawn\source\repos\draw\draw\utils.h(95,31): warning C4244:         [
+C:\Users\shawn\source\repos\draw\draw\utils.h(95,31): warning C4244:             _Tp=int
+C:\Users\shawn\source\repos\draw\draw\utils.h(95,31): warning C4244:         ]
+C:\Users\shawn\source\repos\draw\draw\utils.h(95,24): warning C4244:  “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\Users\shawn\source\repos\draw\draw\utils.h(95,24): warning C4244:         with
+C:\Users\shawn\source\repos\draw\draw\utils.h(95,24): warning C4244:         [
+C:\Users\shawn\source\repos\draw\draw\utils.h(95,24): warning C4244:             _Tp=int
+C:\Users\shawn\source\repos\draw\draw\utils.h(95,24): warning C4244:         ]
+C:\Users\shawn\source\repos\draw\draw\utils.h(95,52): warning C4244:  “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\Users\shawn\source\repos\draw\draw\utils.h(95,52): warning C4244:         with
+C:\Users\shawn\source\repos\draw\draw\utils.h(95,52): warning C4244:         [
+C:\Users\shawn\source\repos\draw\draw\utils.h(95,52): warning C4244:             _Tp=int
+C:\Users\shawn\source\repos\draw\draw\utils.h(95,52): warning C4244:         ]
+C:\Users\shawn\source\repos\draw\draw\utils.h(95,45): warning C4244:  “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\Users\shawn\source\repos\draw\draw\utils.h(95,45): warning C4244:         with
+C:\Users\shawn\source\repos\draw\draw\utils.h(95,45): warning C4244:         [
+C:\Users\shawn\source\repos\draw\draw\utils.h(95,45): warning C4244:             _Tp=int
+C:\Users\shawn\source\repos\draw\draw\utils.h(95,45): warning C4244:         ]
+C:\Users\shawn\source\repos\draw\draw\utils.h(101,24): warning C4244:  “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\Users\shawn\source\repos\draw\draw\utils.h(101,24): warning C4244:         with
+C:\Users\shawn\source\repos\draw\draw\utils.h(101,24): warning C4244:         [
+C:\Users\shawn\source\repos\draw\draw\utils.h(101,24): warning C4244:             _Tp=int
+C:\Users\shawn\source\repos\draw\draw\utils.h(101,24): warning C4244:         ]
+C:\Users\shawn\source\repos\draw\draw\utils.h(101,21): warning C4244:  “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\Users\shawn\source\repos\draw\draw\utils.h(101,21): warning C4244:         with
+C:\Users\shawn\source\repos\draw\draw\utils.h(101,21): warning C4244:         [
+C:\Users\shawn\source\repos\draw\draw\utils.h(101,21): warning C4244:             _Tp=int
+C:\Users\shawn\source\repos\draw\draw\utils.h(101,21): warning C4244:         ]
+C:\Users\shawn\source\repos\draw\draw\utils.h(80,6): warning C4101:  “deg”: 未引用的局部变量
+  正在生成代码
+  3 of 183 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  draw.vcxproj -> C:\Users\shawn\source\repos\draw\x64\Release\draw.exe
